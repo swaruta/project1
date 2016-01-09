@@ -1,3 +1,3 @@
 # project1
 My first repository on Github
-My second repository edit 1
+My second repository edit
